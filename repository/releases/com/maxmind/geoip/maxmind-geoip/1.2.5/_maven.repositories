@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Nov 13 15:56:46 EST 2011
+maxmind-geoip-1.2.5.pom>=
+maxmind-geoip-1.2.5.jar>=
+maxmind-geoip-1.2.5.jar>hadoop-non-releases=
